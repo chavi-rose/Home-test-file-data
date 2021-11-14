@@ -1,0 +1,22 @@
+question number 1. The number of lines in the file is: 99.
+question number 2. The number of words is: 1004 words.
+question number 3. The number of unique words is:367 words.
+question number 5.The popular word: one
+question number 6. The longest word sequence that does not contain the letter k is:  was a City tradesman in
+the light, and, being recognised and challenged by his fellow-
+tradesman whom he stopped in his character of "the Captain,"
+gallantly shot him through the head and rode away; the mall was
+waylaid by seven robbers, and the guard shot three dead, and then
+got shot dead himself by the other four, "in consequence of the
+failure of his ammunition:" after which the mall was robbed in
+peace; that magnificent potentate, the Lord Mayor of London, was
+made to stand and deliver on Turnham Green, by one highwayman,
+who despoiled the illustrious creature in sight of all his
+retinue; prisoners in London gaols fought battles with their
+turn
+question number 4.1. The length of the avarage sentence is: 42 words.
+question number 4.2. The max length of sentence is: 173 words.
+question number 8. the color: Green appears 1times 
+question number 8. the color: Lime appears 1times 
+question number 8. the color: Red appears 6times 
+question number 8. the color: Tan appears 4times 
